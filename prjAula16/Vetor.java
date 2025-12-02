@@ -1,4 +1,4 @@
-package prj1;
+package prjAula16;
 
 import java.util.Scanner;
 
@@ -25,3 +25,4 @@ public class Vetor {
 	}
 
 }
+
